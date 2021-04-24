@@ -1,0 +1,8 @@
+# Create feature branch
+git checkout -b feature
+
+# Enable git flow
+git flow init
+
+# Create feature
+git flow feature start feature
